@@ -1,0 +1,7 @@
+{
+  "name": "OpenScript",
+  "description": "A high-performance, open-source inspired AI media editor clone of Descript. Features text-based video editing, local-first architecture, and Gemini-powered AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
